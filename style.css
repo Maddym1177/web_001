@@ -1,0 +1,14 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.post{
+    background-image: url('images.jpg');
+    background-color: black;
+}
+
+.pages .navitem{
+    margin-left: 2rem;
+}
+
+
